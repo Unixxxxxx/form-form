@@ -70,7 +70,7 @@ const FormComponent = () => {
       ) : (
         <div className="text-center">
           <h2 className="text-2xl font-bold mb-6 text-gray-800">Thank you for your submission!</h2>
-          <img src="https://via.placeholder.com/150" alt="Submission successful" className="mx-auto" />
+          <img src="#" alt="Submission successful" className="mx-auto" />
         </div>
       )}
     </div>
